@@ -1,0 +1,43 @@
+ERROR:root:wrong command written
+INFO:root:entered list commnad
+INFO:root:Exited list command
+INFO:root:entered list dir commnad
+INFO:root:Exited list dir command
+INFO:root:entered get date commnad
+INFO:root:Exited get date command
+INFO:root:entered clear screen commnad
+INFO:root:Exited clear screen command
+INFO:root:entered get time commnad
+INFO:root:Exited get time command
+INFO:root:entered get hour commnad
+INFO:root:Exited get hour command
+INFO:root:entered get minute commnad
+INFO:root:Exited get minute command
+INFO:root:entered get seconds commnad
+INFO:root:Exited get seconds command
+INFO:root:entered cat commnad
+INFO:root:Exited cat command
+INFO:root:entered head commnad
+INFO:root:Exited head command
+INFO:root:entered head commnad
+ERROR:root:File not found
+INFO:root:entered head commnad
+INFO:root:Exited head command
+INFO:root:entered tail commnad
+INFO:root:Exited tail command
+INFO:root:entered copy file commnad
+INFO:root:Exited copy file command
+INFO:root:entered remove file commnad
+INFO:root:Exited remove file command
+INFO:root:entered copy file commnad
+INFO:root:Exited copy file command
+INFO:root:entered empty file commnad
+INFO:root:Exited empty file command
+INFO:root:entered ipconfig commnad
+INFO:root:Exited ipconfig command
+INFO:root:entered pwd commnad
+INFO:root:Exited pwd command
+INFO:root:entered clear screen commnad
+INFO:root:Exited clear screen command
+INFO:root:entered clear screen commnad
+INFO:root:Exited clear screen command
